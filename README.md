@@ -6,5 +6,5 @@
 5.	Pre-trained model was used for damage status detection
 6.	Results of tracking was used to calculate the speed for each vehicle
 
-  - Vehicles Tracking Result
-    <img src='https://github.com/yassminSaber/Vehicle-Attributes-Detection/blob/master/typeModelResult.png' width=200/>
+  - Type Model Result
+    <img src='https://github.com/yassminSaber/Vehicle-Attributes-Detection/blob/master/typeModelResult.png' width=500/>
