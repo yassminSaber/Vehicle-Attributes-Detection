@@ -7,4 +7,4 @@
 6.	Results of tracking was used to calculate the speed for each vehicle
 
   - Type Model Result
-    <img src='https://github.com/yassminSaber/Vehicle-Attributes-Detection/blob/master/typeModelResult.png' width=500 hight= 200/>
+    <img src='https://github.com/yassminSaber/Vehicle-Attributes-Detection/blob/master/typeModelResult.png' width=700 hight= 200 />
