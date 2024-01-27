@@ -5,3 +5,6 @@
 4.	KNN was used for color detection
 5.	Pre-trained model was used for damage status detection
 6.	Results of tracking was used to calculate the speed for each vehicle
+
+  - Vehicles Tracking Result
+    <video src='https://github.com/yassminSaber/Vehicle-Attributes-Detection/blob/master/TrackingResult.avi' width=180/>
