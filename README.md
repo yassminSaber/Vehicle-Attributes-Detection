@@ -1,4 +1,7 @@
 # vehicle-attributes-detection
 1.	Build a web application for the government to upload a vehicle’s video and give the needed traffic violation with abnormal behavior vehicles, and for the driver to inquire about his traffic violation.
-2.	Use deep learning for each type, color, speed, damage status, and plate number Detection.
-3.	Use a machine learning model for color detection (KNN).
+2.	YOLov8 tracking was used to track the vehicle and detects it type
+3.	Training custom dataset on YOLOv8 for plate number detection
+4.	KNN was used for color detection
+5.	Pre-trained model was used for damage detection
+6.	Results of tracking was used to calculate the speed for each vehicle
