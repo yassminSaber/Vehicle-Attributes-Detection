@@ -1,0 +1,61 @@
+html,
+ body {
+  height: 100%;
+}
+
+.form{
+  margin-top: 100px;
+
+}
+.formm{
+  display: block;
+  position: relative;
+  height: 500px;
+
+}
+.formm::after{
+    content: "";
+    background: url('car2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+}
+
+.form-label{
+  font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-size: 20px;}
+.form-control{
+  border: 3px solid rgb(25 68 112 / 75%);
+  border-radius: 10px;
+  width: 300px;
+
+}
+
+
+
+
+.btnn{
+
+  padding: 10px;
+  width: 200px;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: rgb(25 68 112 / 75%);
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold ;
+  border: 2px solid #00090c;
+
+}
+
+

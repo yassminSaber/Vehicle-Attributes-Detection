@@ -1,0 +1,7 @@
+#pip install roboflow
+#pip install ultralytics
+#pip install numpy
+#pip install lap (pip install git+https://github.com/gatagat/lap@new-packaging)
+#pip install cv2
+#pip install os
+#pip install pickle
